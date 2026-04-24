@@ -17,7 +17,7 @@ const noMessages = [
     "If you say no, I will be really sad...", 
     "I will be very sad... 😢",
     "Please??? 😭",
-    "Try again… I’ll wait 😌",
+    "I’m still waiting… let’s not end it like this😢",
 ]
 
 let noClickCount = 0
