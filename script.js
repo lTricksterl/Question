@@ -9,6 +9,7 @@ const gifStages = [
     "https://tenor.com/view/peach-and-goma-goma-crying-cry-tears-gif-26864910.gif"  // 7 crying runaway
 ]
 
+
 const noMessages = [
     "No",
     "Are you sure? 🤔",
@@ -126,3 +127,5 @@ function runAway() {
     noBtn.style.top = `${randomY}px`
     noBtn.style.zIndex = '50'
 }
+
+
